@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Lizbeth Quilumba 👋</h1>
-<h3 align="center">Estudiante de Ingeniería de Software | Apasionada por el Desarrollo web y móvil</h3>
+<h3 align="center">Ingeniera en Software | Apasionada por el Desarrollo web y móvil</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lizbeth-quilumba-6679bb339/" target="_blank">
