@@ -17,7 +17,7 @@
 
 ### 👩🏻‍💻 Sobre mí
 
-Estudiante de último semestre de Ingeniería de Software en la **Universidad Técnica del Norte**, con experiencia en el ciclo completo de desarrollo de aplicaciones móviles y web. Actualmente me encuentro finalizando mi proyecto de titulación en colaboración con el cementerio indígena de Otavalo.
+Ingeniera en Software, con experiencia en el desarrollo de aplicaciones móviles y web.
 
 - 🌍 **Proyecto de Titulación:** Integración de Sistemas de Información Geográfica (GIS).
 - 💡 **Enfoque:** Resolución de problemas y creación de soluciones tecnológicas eficientes, escalables y con impacto real.
